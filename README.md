@@ -14,7 +14,6 @@
 | App | [https://github.com/Tuszy/phygital-app](https://github.com/Tuszy/phygital-app) |
 | Smart Contract | [https://github.com/Tuszy/phygital-smart-contract](https://github.com/Tuszy/phygital-smart-contract) |
 | NFC Tag | [https://github.com/Tuszy/phygital-nfc-tag](https://github.com/Tuszy/phygital-nfc-tag) |
-| QR Code | [https://github.com/Tuszy/phygital-qr-code](https://github.com/Tuszy/phygital-qr-code) |
 
 ## Description
 
