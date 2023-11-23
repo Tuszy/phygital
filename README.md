@@ -15,7 +15,7 @@
 | Smart Contract | [https://github.com/Tuszy/phygital-smart-contract](https://github.com/Tuszy/phygital-smart-contract) |
 | NFC Tag | [https://github.com/Tuszy/phygital-nfc-tag](https://github.com/Tuszy/phygital-nfc-tag) |
 
-## Description
+## Description (30th Oct 2023)
 
 This project demonstrates a simple but efficient way of how to "phygitalize" a product by using an intelligent NFC tag with any modern mobile phone that supports NFC.
 
@@ -43,3 +43,13 @@ We need:
 4. Smart Contract that allows us to mint the product ("digital twin") on the blockchain
 
 All of the above tasks must be implemented within 4 weeks during Lukso's BuildUP Hackathon #2 (30th Oct till 27th Nov). Not a lot of time, so I'll probably have to cut some corners. Please keep in mind, that I am a dev with almost no know-how in electronics, so the NFC tag implementation will probably lack best practices and will not be ready for production. Nevertheless I wanted to accept the challenge since I love the idea of the Lukso Tag and it was the reason why I got interested in Lukso in August 2020.
+
+## Conclusion (26th Nov 2023)
+
+Wow.... This was a hell of a ride for me... 4 weeks of pure grinding, complete focus, no distractions, 12-14h daily shifts, no day off. Made a lot of mistakes, but also learned a lot of new stuff (e.g. Flutter, NFC tech, PCB design and new Lukso standards).
+
+Here we are at the end of Lukso's Build UP Hackathon #2. I can happily say that I have managed to implement all of the requirements I have set for myself. Of course the communication between the mobile phone and the custom made NFC Tag does not work as perfect as I would like it to work, because of the tricky energy harvesting feature, but come on, it is just a prototype and maybe the beginning for any company that would like to adopt and develop it into a perfect working solution. All of the things I have been working on will be completely open source. You can do with it whatever you want. Have fun :)
+
+Working with [Flutter](https://flutter.dev/) was a breeze, I strongly suggest anyone who is interested in cross-platform app development to try it out. Especially for dApps ;) Actually this was the first time I built something with Flutter, so please do not expect any best practices. Keep in mind that I created this app in one and a half weeks, next to all the other stuff that had to be implemented. Because of this reason and the tight schedule I did not submit the app to the AppStore, the reviews would probably take longer than the development of the app. Aside from that it would not even make sense to submit it, since you need the custom made [NFC Tags](https://github.com/Tuszy/phygital-nfc-tag) to play around with it. Therefore I have created a bunch of videos which show every possible scenario.
+
+Thanks for reading. Enjoy the videos.
