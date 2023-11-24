@@ -1,0 +1,15 @@
+[submodule "phygital-frontend"]
+	path = phygital-frontend
+	url = https://github.com/Tuszy/phygital-frontend
+[submodule "phygital-backend"]
+	path = phygital-backend
+	url = https://github.com/Tuszy/phygital-backend
+[submodule "phygital-nfc-tag"]
+	path = phygital-nfc-tag
+	url = https://github.com/Tuszy/phygital-nfc-tag
+[submodule "phygital-smart-contract"]
+	path = phygital-smart-contract
+	url = https://github.com/Tuszy/phygital-smart-contract
+[submodule "phygital-app"]
+	path = phygital-app
+	url = https://github.com/Tuszy/phygital-app
