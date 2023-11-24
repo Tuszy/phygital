@@ -1,3 +1,7 @@
+<p align="center">
+<img src="images/logo.png" width="400px">
+</p>
+
 # Phygital
 > Connecting the physical with the digital world through Phygitals powered by the LUKSO blockchain.
 
