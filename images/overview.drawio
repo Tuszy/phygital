@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T10:09:27.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_Lug45spraQI2KPBY4Ug" version="22.1.3" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-24T10:22:33.954Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wWvWbOUw-jBPNjJRNK8t" version="22.1.3" type="device">
   <diagram name="Seite-1" id="mnL4nf-sFR0LAJ7icpYx">
-    <mxGraphModel dx="2504" dy="1047" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="785" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-151" value="Set LSP12IssuedAssets values&lt;br&gt;for bidirectional binding of&lt;br&gt;created PhygitalAsset contracts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#006CD9;labelBorderColor=#006CD9;" parent="JsJP-QbxDSn6kKqJhDLw-150" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-151" value="Sets LSP12IssuedAssets values&lt;br&gt;for bidirectional binding of&lt;br&gt;created PhygitalAsset contracts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#006CD9;labelBorderColor=#006CD9;" parent="JsJP-QbxDSn6kKqJhDLw-150" vertex="1" connectable="0">
           <mxGeometry x="0.0925" relative="1" as="geometry">
             <mxPoint x="34" y="3" as="offset" />
           </mxGeometry>
@@ -129,7 +129,7 @@
             <mxPoint x="358" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-95" value="Set permissions for &lt;br&gt;controller key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;labelBorderColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-93" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-95" value="Sets permissions for &lt;br&gt;controller key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;labelBorderColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-93" vertex="1" connectable="0">
           <mxGeometry x="0.4696" y="2" relative="1" as="geometry">
             <mxPoint x="-74" y="-36" as="offset" />
           </mxGeometry>
@@ -140,7 +140,7 @@
             <mxPoint x="615.4099999999999" y="120.00102040816324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-103" value="fetch&amp;nbsp;controller key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;labelBorderColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-99" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-103" value="Fetches controller key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;labelBorderColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-99" vertex="1" connectable="0">
           <mxGeometry x="-0.5152" y="1" relative="1" as="geometry">
             <mxPoint x="63" as="offset" />
           </mxGeometry>
@@ -151,7 +151,7 @@
             <mxPoint x="610" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-102" value="Call endpoint /api/login with SIWE signature of universal&lt;br&gt;profile to retrieve the JWT for the &#39;App Login QR Code&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;labelBorderColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-101" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-102" value="Calls endpoint /api/login with SIWE signature of universal&lt;br&gt;profile to retrieve the JWT for the &#39;App Login QR Code&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;labelBorderColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-101" vertex="1" connectable="0">
           <mxGeometry x="-0.2522" y="2" relative="1" as="geometry">
             <mxPoint x="33" y="1" as="offset" />
           </mxGeometry>
@@ -196,7 +196,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-126" value="Fetch Universal Profile data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#FF8000;fontColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-123" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-126" value="Fetches Universal Profile data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#FF8000;fontColor=#FF8000;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-123" vertex="1" connectable="0">
           <mxGeometry x="0.4373" y="-2" relative="1" as="geometry">
             <mxPoint x="65" y="-2" as="offset" />
           </mxGeometry>
@@ -209,7 +209,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-125" value="Scan &#39;App Login QR Code&#39; to log in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#228122;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-124" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-125" value="Scans &#39;App Login QR Code&#39; to log in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#228122;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-124" vertex="1" connectable="0">
           <mxGeometry x="-0.4831" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -217,17 +217,17 @@
         <mxCell id="JsJP-QbxDSn6kKqJhDLw-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.559;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#008100;" parent="1" source="JsJP-QbxDSn6kKqJhDLw-28" target="JsJP-QbxDSn6kKqJhDLw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-129" value="Check permissions&lt;br&gt;and fetch data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-128" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-129" value="Checks permissions&lt;br&gt;and fetches data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-128" vertex="1" connectable="0">
           <mxGeometry x="-0.112" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JsJP-QbxDSn6kKqJhDLw-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#008100;" parent="1" source="JsJP-QbxDSn6kKqJhDLw-28" target="JsJP-QbxDSn6kKqJhDLw-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-132" value="Fetch Universal Profile&lt;br&gt;&amp;nbsp;and Phygital data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-131" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-132" value="Fetches Universal&lt;br&gt;Profile and &lt;br&gt;Phygital data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-131" vertex="1" connectable="0">
           <mxGeometry x="0.0007" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" as="offset" />
+            <mxPoint x="-11" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JsJP-QbxDSn6kKqJhDLw-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#008100;" parent="1" edge="1">
@@ -242,9 +242,9 @@
             <mxPoint x="634.2294100000003" y="518.9419052941175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-134" value="Read public key, assign collection&lt;br&gt;and sign Universal Profile address&lt;br&gt;with private key for minting and&lt;br&gt;ownership verification" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-133" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-134" value="Reads public key, assign collection&lt;br&gt;and sign Universal Profile address&lt;br&gt;with private key for minting and&lt;br&gt;ownership verification&lt;br&gt;Remark: Private key never leaves &lt;br&gt;the NFC TAG, signing occurs in it" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-133" vertex="1" connectable="0">
           <mxGeometry x="-0.1643" y="2" relative="1" as="geometry">
-            <mxPoint x="-102" y="6" as="offset" />
+            <mxPoint x="-99" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JsJP-QbxDSn6kKqJhDLw-138" value="" style="group;fontStyle=1;fontColor=#9933FF;strokeWidth=1;" parent="1" vertex="1" connectable="0">
@@ -267,7 +267,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-141" value="- Fetch Universal Profile&lt;br&gt;- Upload and fetch Phygital data" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#006CD9;labelBorderColor=#006CD9;" parent="JsJP-QbxDSn6kKqJhDLw-139" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-141" value="- Fetches Universal Profile&lt;br&gt;- Uploads and fetches Phygital data" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#006CD9;labelBorderColor=#006CD9;" parent="JsJP-QbxDSn6kKqJhDLw-139" vertex="1" connectable="0">
           <mxGeometry x="0.5032" relative="1" as="geometry">
             <mxPoint x="-109" as="offset" />
           </mxGeometry>
@@ -282,7 +282,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-143" value="Reference&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;fontStyle=1;fontColor=#46A8AF;labelBorderColor=#46A8AF;" parent="JsJP-QbxDSn6kKqJhDLw-142" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-143" value="References&lt;br&gt;data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;fontStyle=1;fontColor=#46A8AF;labelBorderColor=#46A8AF;" parent="JsJP-QbxDSn6kKqJhDLw-142" vertex="1" connectable="0">
           <mxGeometry x="-0.1091" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -298,7 +298,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-145" value="Reference data (Phygital collection, metadata and images)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#9933FF;labelBorderColor=#9933FF;" parent="JsJP-QbxDSn6kKqJhDLw-144" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-145" value="References data (Phygital collection, metadata and images)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#9933FF;labelBorderColor=#9933FF;" parent="JsJP-QbxDSn6kKqJhDLw-144" vertex="1" connectable="0">
           <mxGeometry x="0.3971" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -312,9 +312,9 @@
             <mxPoint x="691.64" y="199.99632653061235" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-149" value="Deploy and call contract functions&lt;br&gt;with controller key&amp;nbsp;for UP (LSP25): &lt;br&gt;- mint&lt;br&gt;- transfer&lt;br&gt;- verifyOwnershipAfterTransfer" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#006CD9;labelBorderColor=#006CD9;" parent="JsJP-QbxDSn6kKqJhDLw-148" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-149" value="Deploys and calls contract functions&lt;br&gt;with controller key&amp;nbsp;for UP (LSP25): &lt;br&gt;- mint&lt;br&gt;- transfer&lt;br&gt;- verifyOwnershipAfterTransfer" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#006CD9;labelBorderColor=#006CD9;" parent="JsJP-QbxDSn6kKqJhDLw-148" vertex="1" connectable="0">
           <mxGeometry x="-0.1312" y="-1" relative="1" as="geometry">
-            <mxPoint x="-82" y="4" as="offset" />
+            <mxPoint x="-85" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JsJP-QbxDSn6kKqJhDLw-153" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1.044;exitY=0.299;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#008100;" parent="1" source="JsJP-QbxDSn6kKqJhDLw-28" target="JsJP-QbxDSn6kKqJhDLw-47" edge="1">
@@ -323,9 +323,9 @@
             <mxPoint x="520" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JsJP-QbxDSn6kKqJhDLw-154" value="Call endpoints with JWT:&lt;br&gt;- /api/verify-token&lt;br&gt;- /api/mint&lt;br&gt;- /api/transfer&lt;br&gt;- /api/verify-ownership-after-transfer&lt;br&gt;- /api/create" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;rotation=0;fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-153" vertex="1" connectable="0">
+        <mxCell id="JsJP-QbxDSn6kKqJhDLw-154" value="Calls endpoints with JWT:&lt;br&gt;- /api/verify-token&lt;br&gt;- /api/mint&lt;br&gt;- /api/transfer&lt;br&gt;- /api/verify-ownership-after-transfer&lt;br&gt;- /api/create" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;rotation=0;fontColor=#008100;labelBorderColor=#008100;fontStyle=1" parent="JsJP-QbxDSn6kKqJhDLw-153" vertex="1" connectable="0">
           <mxGeometry x="0.0926" y="-2" relative="1" as="geometry">
-            <mxPoint x="-97" y="6" as="offset" />
+            <mxPoint x="-99" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JsJP-QbxDSn6kKqJhDLw-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -371,7 +371,7 @@
         <mxCell id="9D5lFve2uhLVXZCvMy5B-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#9933FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="661" y="328" as="sourcePoint" />
-            <mxPoint x="616" y="314" as="targetPoint" />
+            <mxPoint x="613" y="311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9D5lFve2uhLVXZCvMy5B-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#9933FF;strokeWidth=3;" edge="1" parent="1">
@@ -380,9 +380,9 @@
             <mxPoint x="384" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9D5lFve2uhLVXZCvMy5B-12" value="assign" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;fontStyle=1;fontColor=#9933FF;labelBorderColor=#9933FF;" vertex="1" connectable="0" parent="9D5lFve2uhLVXZCvMy5B-11">
+        <mxCell id="9D5lFve2uhLVXZCvMy5B-12" value="assigns" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;fontStyle=1;fontColor=#9933FF;labelBorderColor=#9933FF;" vertex="1" connectable="0" parent="9D5lFve2uhLVXZCvMy5B-11">
           <mxGeometry x="0.3757" y="-3" relative="1" as="geometry">
-            <mxPoint x="244" y="72" as="offset" />
+            <mxPoint x="242" y="70" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
