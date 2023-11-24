@@ -5,13 +5,17 @@
 # Phygital
 > Connecting the physical with the digital world through Phygitals powered by the LUKSO blockchain.
 
+# Remarks
+Testing this project will be probably impossible because you need the App and the custom made NFC tags. Due to the tight schedule, I didn't upload the app to the AppStore, nor did I send any NFC tags to the Lukso office. But I did record a bunch of videos and cut them into a blockbuster hehe... Enjoy it :) 
+
 ## Overview
 | Name | Description |
 | ---- | ----------- |
 | Project | Phygital |
 | Name | Dennis Tuszynski |
 | Email | denniro@gmail.com |
-| Project | [https://phygital.tuszy.com](https://phygital.tuszy.com) |
+| Deployed | [https://phygital.tuszy.com](https://phygital.tuszy.com) |
+| Demo | [https://www.youtube.com/watch?v=NZiShK34YZ8](https://www.youtube.com/watch?v=NZiShK34YZ8) |
 | GitHub | [https://github.com/Tuszy/phygital](https://github.com/Tuszy/phygital) |
 | Frontend | [https://github.com/Tuszy/phygital-frontend](https://github.com/Tuszy/phygital-frontend) |
 | Backend | [https://github.com/Tuszy/phygital-backend](https://github.com/Tuszy/phygital-backend) |
@@ -58,4 +62,24 @@ Here we are at the end of Lukso's Build UP Hackathon #2. I can happily say that 
 
 Working with [Flutter](https://flutter.dev/) was a breeze, I strongly suggest anyone who is interested in cross-platform app development to try it out. Especially for dApps ;) Actually this was the first time I built something with Flutter, so please do not expect any best practices. Keep in mind that I created this app in one and a half weeks, next to all the other stuff that had to be implemented. Because of this reason and the tight schedule I did not submit the app to the AppStore, the reviews would probably take longer than the development of the app. Aside from that it would not even make sense to submit it, since you need the custom made [NFC Tags](https://github.com/Tuszy/phygital-nfc-tag) to play around with it. Therefore I have created a bunch of videos which show every possible scenario.
 
-Thanks for reading. Enjoy the videos.
+Thanks for reading.
+
+## Videos
+
+### [Demo Video](https://www.youtube.com/watch?v=NZiShK34YZ8)
+
+### [Happy Path Test](https://www.youtube.com/playlist?list=PLQpnsw6jmPYCZmlyFtWERB9vC6mmc03E8)
+
+### Uncut Raw Footage used for the Demo Video
+
+[Login with Universal Profile](https://www.youtube.com/playlist?list=PLQpnsw6jmPYBJ4lbrHXlMIEk0v2I17c-D)
+
+[Read Phygital](https://www.youtube.com/playlist?list=PLQpnsw6jmPYC7JLNTCARlFiPlVy4bC1cE)
+
+[Mint Phygital](https://www.youtube.com/playlist?list=PLQpnsw6jmPYBVahulN1zJ_rx158ZnSdHd)
+
+[Transfer Phygital](https://www.youtube.com/playlist?list=PLQpnsw6jmPYC7pvrLr02VObxAkHTm9Hl1)
+
+[Verify Ownership of Phygital after Transfer](https://www.youtube.com/playlist?list=PLQpnsw6jmPYBGBBZnC341WkGRZf0H4Xjs)
+
+[Create Phygital](https://www.youtube.com/playlist?list=PLQpnsw6jmPYCvuaZVHANWPVAUEDKvUf_F)
