@@ -15,6 +15,8 @@
 | Smart Contract | [https://github.com/Tuszy/phygital-smart-contract](https://github.com/Tuszy/phygital-smart-contract) |
 | NFC Tag | [https://github.com/Tuszy/phygital-nfc-tag](https://github.com/Tuszy/phygital-nfc-tag) |
 
+<img src="images/overview.png" />
+
 ## Description (30th Oct 2023)
 
 This project demonstrates a simple but efficient way of how to "phygitalize" a product by using an intelligent NFC tag with any modern mobile phone that supports NFC.
