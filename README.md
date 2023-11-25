@@ -6,7 +6,9 @@
 > Connecting the physical with the digital world through Phygitals powered by the LUKSO blockchain.
 
 # Remarks
-Testing this project will be probably impossible because you need the App and the custom made NFC tags. Due to the tight schedule, I didn't upload the app to the AppStore, nor did I send any NFC tags to the Lukso office. But I did record a bunch of videos and cut them into a blockbuster hehe... Enjoy it :) 
+Testing this project will be probably impossible because you need the App and the custom made NFC tags. Due to the tight schedule, I didn't upload the app to the AppStore, nor did I send any NFC tags to the Lukso office. But I did record a bunch of videos and cut them into a blockbuster hehe... Furthermore I created a clickable Prototype PDF which contains proper navigation. Enjoy it :) 
+
+## [Open Prototype PDF](Prototyping.pdf)
 
 ## Overview
 | Name | Description |
