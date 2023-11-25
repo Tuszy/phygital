@@ -8,7 +8,8 @@
 # Remarks
 Testing this project will be probably impossible because you need the App and the custom made NFC tags. Due to the tight schedule, I didn't upload the app to the AppStore, nor did I send any NFC tags to the Lukso office. But I did record a bunch of videos and cut them into a blockbuster hehe... Furthermore I created a clickable Prototype PDF which contains proper navigation. Enjoy it :) 
 
-## <a href="Prototyping.pdf" download>Download Prototype PDF</a>
+### [Demo Video](https://www.youtube.com/watch?v=NZiShK34YZ8)
+### [Prototype PDF (Must be downloaded to work properly)](Prototyping.pdf)
 
 ## Overview
 | Name | Description |
@@ -18,6 +19,7 @@ Testing this project will be probably impossible because you need the App and th
 | Email | denniro@gmail.com |
 | Deployed | [https://phygital.tuszy.com](https://phygital.tuszy.com) |
 | Demo | [https://www.youtube.com/watch?v=NZiShK34YZ8](https://www.youtube.com/watch?v=NZiShK34YZ8) |
+| Prototype PDF | [Prototype PDF](Prototyping.pdf)  (Must be downloaded to work properly)|
 | GitHub | [https://github.com/Tuszy/phygital](https://github.com/Tuszy/phygital) |
 | Frontend | [https://github.com/Tuszy/phygital-frontend](https://github.com/Tuszy/phygital-frontend) |
 | Backend | [https://github.com/Tuszy/phygital-backend](https://github.com/Tuszy/phygital-backend) |
