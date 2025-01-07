@@ -15,9 +15,6 @@ Testing this project will be probably impossible because you need the App and th
 | Name | Description |
 | ---- | ----------- |
 | Project | Phygital |
-| Name | Dennis Tuszynski |
-| Email | denniro@gmail.com |
-| Deployed | [https://phygital.tuszy.com](https://phygital.tuszy.com) |
 | Demo | [https://www.youtube.com/watch?v=NZiShK34YZ8](https://www.youtube.com/watch?v=NZiShK34YZ8) |
 | Prototype PDF | [Prototype PDF](Prototyping.pdf)  (Must be downloaded to work properly)|
 | GitHub | [https://github.com/Tuszy/phygital](https://github.com/Tuszy/phygital) |
